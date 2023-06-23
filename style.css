@@ -1,3 +1,4 @@
+@import url("style/header.css")
 :root {
     --cor-de-fundo:rgb(146, 10, 10)
     }
@@ -6,10 +7,14 @@
         ;
     }
     h1 {
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(255, 241, 241);
         }
 
 .jogoicon{
     width: 11%;
 }
 
+
+.MINECRAFT{
+    width: 30%;
+}
